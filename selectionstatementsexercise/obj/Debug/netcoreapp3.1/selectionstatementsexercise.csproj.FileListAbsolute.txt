@@ -1,0 +1,13 @@
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\obj\Debug\netcoreapp3.1\selectionstatementsexercise.csprojAssemblyReference.cache
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\obj\Debug\netcoreapp3.1\selectionstatementsexercise.AssemblyInfoInputs.cache
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\obj\Debug\netcoreapp3.1\selectionstatementsexercise.AssemblyInfo.cs
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\obj\Debug\netcoreapp3.1\selectionstatementsexercise.csproj.CoreCompileInputs.cache
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\bin\Debug\netcoreapp3.1\selectionstatementsexercise.exe
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\bin\Debug\netcoreapp3.1\selectionstatementsexercise.deps.json
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\bin\Debug\netcoreapp3.1\selectionstatementsexercise.runtimeconfig.json
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\bin\Debug\netcoreapp3.1\selectionstatementsexercise.runtimeconfig.dev.json
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\bin\Debug\netcoreapp3.1\selectionstatementsexercise.dll
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\bin\Debug\netcoreapp3.1\selectionstatementsexercise.pdb
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\obj\Debug\netcoreapp3.1\selectionstatementsexercise.dll
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\obj\Debug\netcoreapp3.1\selectionstatementsexercise.pdb
+C:\Users\apowa\source\repos\selectionstatementsexercise\selectionstatementsexercise\obj\Debug\netcoreapp3.1\selectionstatementsexercise.genruntimeconfig.cache
